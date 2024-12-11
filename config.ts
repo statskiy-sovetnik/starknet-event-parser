@@ -1,0 +1,5 @@
+export const config = {
+  CONTRACT_ADDRESS: '0x028d709c875c0ceac3dce7065bec5328186dc89fe254527084d1689910954b0a',
+  FROM_BLOCK: 929092,
+  EVENT: "RoleGranted",
+}
