@@ -35,6 +35,8 @@ dotenv.config();
       console.log(
         'event #',
         i,
+        `tx = `,
+        event.transaction_hash,
         'data length =',
         event.data.length,
         'key length =',
